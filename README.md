@@ -5,13 +5,45 @@ This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-
 First, run the development server:
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+
+# 🚀 Md Shahin - Developer Portfolio
+
+A modern, futuristic, anti-gravity personal developer portfolio built with Next.js 15, React 19, and Framer Motion.
+
+## ✨ Features
+
+- Anti-gravity floating UI system
+- Smooth Framer Motion animations
+- Glassmorphism design
+- Fully responsive layout
+- Dark/Light mode toggle
+- Interactive cursor effects
+- Contact form with email integration (Nodemailer)
+
+## 🛠 Tech Stack
+
+- Next.js 15 (App Router)
+- React 19
+- Tailwind CSS
+- DaisyUI
+- Framer Motion
+- Nodemailer (Email system)
+
+## 📬 Contact
+
+- Name: Md Shahin  
+- Email: shahinalam4317@gmail.com  
+- Phone: 01850840896  
+- GitHub: https://github.com/shahin4317  
+- LinkedIn: https://www.linkedin.com/in/md-shahin-alam-1b24aa321/
+
+## 🚀 Deployment
+
+Deployed on Vercel
+
+---
+
+Made with ❤️ by Md Shahin
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
